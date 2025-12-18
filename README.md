@@ -2,7 +2,10 @@
   <img src="docs/images/cover.png" alt="VS Code Boilerplate Cover" width="100%">
 </p>
 
-<h1 align="center">VS Code Boilerplate</h1>
+<h1 align="center">
+  <img src="assets/logo.svg" width="32" height="32" alt="Logo" align="top">
+  VS Code Boilerplate
+</h1>
 
 <p align="center">
   <strong>现代化 VS Code 插件开发模板</strong><br>
