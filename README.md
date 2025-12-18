@@ -1,4 +1,13 @@
-# VS Code Extension Template
+<p align="center">
+  <img src="docs/images/cover.png" alt="VS Code Boilerplate Cover" width="100%">
+</p>
+
+<h1 align="center">VS Code Boilerplate</h1>
+
+<p align="center">
+  <strong>现代化 VS Code 插件开发模板</strong><br>
+  <sub>Turborepo · TypeScript · React WebView · Tailwind CSS</sub>
+</p>
 
 <!-- toc -->
 
@@ -100,7 +109,7 @@
 
    ```bash
    git clone [your-template-url]
-   cd vscode-extension-template
+   cd vscode-boilerplate
    ```
 
 2. 安装依赖:
