@@ -18,7 +18,7 @@ function getWebviewContent(webviewJsSrc: vscode.Uri): string {
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src vscode-resource: https:; script-src 'unsafe-eval' 'unsafe-inline' vscode-resource:; style-src vscode-resource: 'unsafe-inline';">
-      <title>VSCode Extension Template</title>
+      <title>VSCode Boilerplate</title>
     </head>
     <body>
       <div id="root"></div>

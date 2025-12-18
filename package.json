@@ -1,6 +1,6 @@
 {
-  "name": "vscode-extension-template",
-  "displayName": "VS Code Extension Template",
+  "name": "vscode-boilerplate",
+  "displayName": "VS Code Boilerplate",
   "version": "0.1.0",
   "private": true,
   "description": "Modern VS Code extension template with Turbo, TypeScript, WebView, React, and Tailwind",
